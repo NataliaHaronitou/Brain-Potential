@@ -1,4 +1,4 @@
-# brain-potential
+# Brain Potential
 
 Reading EEG data: 
 
